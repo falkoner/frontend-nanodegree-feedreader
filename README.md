@@ -32,3 +32,4 @@ In this project you are given a web-based application that reads RSS feeds. The 
 ## How to run
 
 Open index.html in a browser.
+Or view on Git Hub Pages: [http://falkoner.github.io/frontend-nanodegree-feedreader/](http://falkoner.github.io/frontend-nanodegree-feedreader/)
